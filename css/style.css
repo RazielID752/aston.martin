@@ -177,10 +177,10 @@ img{
   margin: 0 auto;
 }
 .img-order{
-  order: 2;
+  order: 1;
 }
 .text-order{
-  order: 1;
+  order: 2;
 }
 .section-time div img{
   margin: 0 auto;
